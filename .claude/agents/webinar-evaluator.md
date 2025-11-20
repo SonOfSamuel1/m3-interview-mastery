@@ -28,21 +28,21 @@ When presented with a webinar presentation (script, outline, recording transcrip
    - 9-10: Exceptional implementation aligned with framework best practices
 
    Score these specific elements:
-   
+
    **INTRODUCTION SECTION (Target: 5-10 minutes)**
    - Bold Promise: Clear statement matching registration promise
    - Big Domino: Core framework/philosophy identification
    - Qualifying Yourself: Credibility establishment through relevant origin story
    - Future Pacing: Imagination exercises painting transformation
    - Hook to End: Incentive to stay for entire presentation
-   
+
    **CONTENT SECTION: THE THREE SECRETS (Target: ~60 minutes total)**
    - Secret #1 - Vehicle Belief: Framework introduction, epiphany bridge story, strategy teaching, case studies
    - Secret #2 - Internal Beliefs: Self-doubt addressing, capability building, epiphany story, strategy
    - Secret #3 - External Beliefs: Resource/circumstance objections, epiphany story, limiting belief breaking
    - One Thing Coherence: How well all three secrets support the core promise
    - Teaching Quality: Depth, clarity, and actionability of content
-   
+
    **THE CLOSE SECTION (Target: ~30 minutes)**
    - Transition: Permission-based shift from teaching to selling
    - Stack Architecture: Visual layering of offer components
@@ -50,7 +50,7 @@ When presented with a webinar presentation (script, outline, recording transcrip
    - Price Reveal Strategy: Implementation of higher-then-lower price sequence
    - Objection Handling: Preemptive addressing of resistance
    - Closing Techniques: Use of If/All statements, social compliance, transparency
-   
+
    **HIGH-TICKET SPECIFIC ELEMENTS**
    - Positioning: Reversal from "I'm selling you" to "Are you qualified?"
    - Multi-Step Qualification: Clear path to application/call rather than direct sale
